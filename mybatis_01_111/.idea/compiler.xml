@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="00_generatorSqlmapCustom" />
+        <module name="mybatis_01_111" />
+        <module name="mybatis_01_222" />
+        <module name="mybatis_02_111" />
+        <module name="mybatis_02_222" />
+        <module name="mybatis_03_111" />
+        <module name="mybatis_03_222" />
+        <module name="mybatis_04_222" />
+        <module name="mybatis_04_333" />
+        <module name="mybatis_04_444" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="00_generatorSqlmapCustom" target="1.5" />
+      <module name="mybatis_01_111" target="1.8" />
+      <module name="mybatis_01_222" target="1.8" />
+      <module name="mybatis_02_111" target="1.8" />
+      <module name="mybatis_02_222" target="1.8" />
+      <module name="mybatis_03_111" target="1.8" />
+      <module name="mybatis_03_222" target="1.8" />
+      <module name="mybatis_04_111" target="1.8" />
+      <module name="mybatis_04_222" target="1.8" />
+      <module name="mybatis_04_333" target="1.8" />
+      <module name="mybatis_04_444" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

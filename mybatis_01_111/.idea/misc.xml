@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_01_222/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_02_111/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_02_222/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_03_111/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_03_222/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_04_111/pom.xml" />
+        <option value="$PROJECT_DIR$/../00_generatorSqlmapCustom/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_04_333/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_04_444/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

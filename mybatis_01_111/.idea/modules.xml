@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../00_generatorSqlmapCustom/00_generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/../00_generatorSqlmapCustom/00_generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_01_111.iml" filepath="$PROJECT_DIR$/mybatis_01_111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_01_222/mybatis_01_222.iml" filepath="$PROJECT_DIR$/../mybatis_01_222/mybatis_01_222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_02_111/mybatis_02_111.iml" filepath="$PROJECT_DIR$/../mybatis_02_111/mybatis_02_111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_02_222/mybatis_02_222.iml" filepath="$PROJECT_DIR$/../mybatis_02_222/mybatis_02_222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_03_111/mybatis_03_111.iml" filepath="$PROJECT_DIR$/../mybatis_03_111/mybatis_03_111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_03_222/mybatis_03_222.iml" filepath="$PROJECT_DIR$/../mybatis_03_222/mybatis_03_222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_04_111/mybatis_04_111.iml" filepath="$PROJECT_DIR$/../mybatis_04_111/mybatis_04_111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_04_222/mybatis_04_222.iml" filepath="$PROJECT_DIR$/../mybatis_04_222/mybatis_04_222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_04_333/mybatis_04_333.iml" filepath="$PROJECT_DIR$/../mybatis_04_333/mybatis_04_333.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_04_444/mybatis_04_444.iml" filepath="$PROJECT_DIR$/../mybatis_04_444/mybatis_04_444.iml" />
+    </modules>
+  </component>
+</project>
